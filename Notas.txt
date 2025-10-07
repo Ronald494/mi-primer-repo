@@ -1,1 +1,2 @@
 Nota de prueba
+Nota para probar los cambios remotos en un repositorio
